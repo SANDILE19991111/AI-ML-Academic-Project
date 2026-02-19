@@ -27,7 +27,6 @@
   - [3. Clustering Random Data](#3-clustering-random-data)
   - [4. Search Algorithms - Theory Assignments](#4-search-algorithms---theory-assignments)
 - [Skills & Technologies](#-skills--technologies)
-- [CV & Resume](#-cv--resume)
 - [Getting Started](#-getting-started)
 - [Contact](#-contact)
 
